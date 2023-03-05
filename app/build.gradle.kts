@@ -7,7 +7,7 @@ plugins {
 	kotlin("plugin.spring") version "1.6.21"
 	kotlin("plugin.jpa") version "1.6.21"
 	id("jacoco")
-	id("org.sonarqube") version "3.5.0.2730"
+	id("org.sonarqube") version "4.0.0.2929"
 }
 
 group = "br.com.kumabe"
